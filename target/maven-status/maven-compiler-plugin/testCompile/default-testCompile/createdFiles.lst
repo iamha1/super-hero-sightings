@@ -1,0 +1,6 @@
+com/sg/superHumans/Dao/LocationDaoDBTest.class
+com/sg/superHumans/Dao/OrganizationDaoDBTest.class
+com/sg/superHumans/Dao/SightingsDaoDBTest.class
+com/sg/superHumans/Dao/SuperPowerDaoDBTest.class
+com/sg/superHumans/Dao/SuperHumanDaoDBTest.class
+com/sg/superHumans/SuperHumansApplicationTests.class

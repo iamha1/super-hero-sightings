@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.sg.superHumans.Dao.LocationDaoDBTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in com.sg.superHumans.Dao.LocationDaoDBTest
+initializationError(com.sg.superHumans.Dao.LocationDaoDBTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.Exception: The class com.sg.superHumans.Dao.LocationDaoDBTest is not public.
+
+initializationError(com.sg.superHumans.Dao.LocationDaoDBTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.Exception: No runnable methods
+
